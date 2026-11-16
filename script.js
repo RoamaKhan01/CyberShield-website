@@ -261,3 +261,4 @@ specialNotes.addEventListener("input", function() {
         remaining + " characters remaining";
 
 });
+// Commit 2
